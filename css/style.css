@@ -1767,6 +1767,39 @@ body.modal{
 	font-weight: 500;
 }
 
+.tokyo_tm_contact .social{
+	width: 100%;
+	float: left;
+}
+.tokyo_tm_contact .social ul{
+	margin: 0px;
+	list-style-type: none;
+}
+.tokyo_tm_contact .social ul li{
+	margin: 0px 12px 0px 0px;
+	display: inline-block;
+}
+.tokyo_tm_contact .social ul li:last-child{
+	margin-right: 0px;
+}
+.tokyo_tm_contact .social ul li a{
+	text-decoration: none;
+	color: #fff;
+	
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.tokyo_tm_contact .social ul li a:hover{
+	color: darkcyan;
+}
+.tokyo_tm_contact .social ul li .svg{
+	width: 17px;
+	height: 17px;
+}
+
 /*---------------------------------------------------*/
 /*	10) TOKYO MAGIC CURSOR
 /*---------------------------------------------------*/
