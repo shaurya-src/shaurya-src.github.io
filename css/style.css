@@ -1770,13 +1770,14 @@ body.modal{
 .tokyo_tm_contact .social{
 	width: 100%;
 	float: left;
+	padding-top: 60px;
 }
 .tokyo_tm_contact .social ul{
 	margin: 0px;
 	list-style-type: none;
 }
 .tokyo_tm_contact .social ul li{
-	margin: 0px 12px 0px 0px;
+	margin: 0px 52px 0px 0px;
 	display: inline-block;
 }
 .tokyo_tm_contact .social ul li:last-child{
@@ -1793,11 +1794,11 @@ body.modal{
 	        transition: all .3s ease;
 }
 .tokyo_tm_contact .social ul li a:hover{
-	color: darkcyan;
+	color: rgb(10, 123, 253);
 }
 .tokyo_tm_contact .social ul li .svg{
-	width: 17px;
-	height: 17px;
+	width: 22px;
+	height: 22px;
 }
 
 /*---------------------------------------------------*/
